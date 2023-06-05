@@ -33,6 +33,7 @@ function Card() {
         date = "8";
     }
 
+
     return (
         <div className="Card">
             {texts.map((text) => {
